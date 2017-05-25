@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AutomationProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Cookies.data</name>
+			<type>1</type>
+			<location>C:/Users/ngat.tran/Git/AutomationProject/Cookies.data</location>
+		</link>
+		<link>
+			<name>src/TestData/TestData1.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/ngat.tran/workspace/AutomationProject/src/TestData/TestData1.xlsx</location>
+		</link>
+	</linkedResources>
+</projectDescription>

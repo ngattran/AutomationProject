@@ -1,0 +1,109 @@
+2017-04-04 14:41:34,624 INFO  [Log] **************************************************************************************** 
+2017-04-04 14:41:34,624 INFO  [Log] **************************************************************************************** 
+2017-04-04 14:41:34,624 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 14:41:34,624 INFO  [Log] **************************************************************************************** 
+2017-04-04 14:41:34,624 INFO  [Log] **************************************************************************************** 
+2017-04-04 14:41:35,015 INFO  [Log]  Excel sheet opened 
+2017-04-04 14:41:40,286 INFO  [Log] New driver instantiated 
+2017-04-04 14:41:40,394 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-04 14:42:06,267 INFO  [Log] Web application launched 
+2017-04-04 14:42:06,267 INFO  [Log] Username picked from Excel is testuser_20000 
+2017-04-04 14:42:06,267 INFO  [Log] Password picked from Excel is 12345678 
+2017-04-04 14:42:06,282 INFO  [Log] My Account link element found 
+2017-04-04 14:42:06,329 INFO  [Log] Click action performed on My Account link 
+2017-04-04 14:42:07,519 INFO  [Log] Username text box found 
+2017-04-04 14:42:07,629 INFO  [Log] Username entered in the Username text box 
+2017-04-04 14:42:07,629 INFO  [Log] Password text box found 
+2017-04-04 14:42:07,660 INFO  [Log] Password entered in the Password text box 
+2017-04-04 14:42:07,769 INFO  [Log] Submit button found 
+2017-04-04 14:42:08,278 INFO  [Log] Click action performed on Submit button 
+2017-04-04 14:42:11,930 INFO  [Log] Log Out link element found 
+2017-04-04 14:42:11,993 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-04 14:42:13,624 INFO  [Log] Browser closed 
+2017-04-04 14:42:13,812 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-04 14:42:13,812 INFO  [Log] X 
+2017-04-04 14:42:13,812 INFO  [Log] X 
+2017-04-04 14:42:13,812 INFO  [Log] X 
+2017-04-04 14:42:13,812 INFO  [Log] X 
+2017-04-04 15:46:05,126 INFO  [Log] **************************************************************************************** 
+2017-04-04 15:46:05,127 INFO  [Log] **************************************************************************************** 
+2017-04-04 15:46:05,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 15:46:05,127 INFO  [Log] **************************************************************************************** 
+2017-04-04 15:46:05,127 INFO  [Log] **************************************************************************************** 
+2017-04-04 15:46:05,519 INFO  [Log]  Excel sheet opened 
+2017-04-04 15:46:10,376 INFO  [Log] New driver instantiated 
+2017-04-04 15:46:10,438 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-04 15:46:35,166 INFO  [Log] Username picked from Excel is testuser_20000 
+2017-04-04 15:46:35,167 INFO  [Log] Password picked from Excel is 12345678 
+2017-04-04 15:46:35,188 INFO  [Log] My Account link element found 
+2017-04-04 15:46:35,225 INFO  [Log] Click action performed on My Account link 
+2017-04-04 15:46:36,272 INFO  [Log] Username text box found 
+2017-04-04 15:46:36,305 INFO  [Log] Username entered in the Username text box 
+2017-04-04 15:46:36,314 INFO  [Log] Password text box found 
+2017-04-04 15:46:36,333 INFO  [Log] Password entered in the Password text box 
+2017-04-04 15:46:36,453 INFO  [Log] Submit button found 
+2017-04-04 15:46:36,949 INFO  [Log] Click action performed on Submit button 
+2017-04-04 15:46:39,404 INFO  [Log] Log Out link element found 
+2017-04-04 15:46:39,418 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,476 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:00:48,968 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2017-04-04 17:00:48,968 INFO  [Log] Username picked from Excel is testuser_20000 
+2017-04-04 17:00:48,968 INFO  [Log] Password picked from Excel is 12345678 
+2017-04-04 17:03:25,802 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,802 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,803 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 17:03:25,803 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,803 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,804 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,804 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,804 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 17:03:25,804 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:25,804 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:03:26,276 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2017-04-04 17:03:26,282 INFO  [Log] Username picked from Excel is testuser_20000 
+2017-04-04 17:03:26,282 INFO  [Log] Password picked from Excel is 12345678 
+2017-04-10 17:27:45,138 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:27:45,138 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:27:45,138 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 17:27:45,138 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:27:45,138 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:27:45,544 INFO  [Log]  Excel sheet opened 
+2017-04-10 17:27:50,633 INFO  [Log] New driver instantiated 
+2017-04-10 17:27:50,769 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 17:27:57,551 INFO  [Log] My Account link element found 
+2017-04-10 17:28:00,119 INFO  [Log] Username text box found 
+2017-04-10 17:28:00,243 INFO  [Log] Password text box found 
+2017-04-10 17:28:00,807 INFO  [Log] Submit button found 
+2017-04-10 17:28:07,763 INFO  [Log] Log Out link element found 
+2017-04-10 17:28:07,825 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-10 17:35:55,438 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:35:55,438 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:35:55,438 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 17:35:55,438 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:35:55,438 INFO  [Log] **************************************************************************************** 
+2017-04-10 17:35:55,860 INFO  [Log]  Excel sheet opened 
+2017-04-10 17:36:00,451 INFO  [Log] New driver instantiated 
+2017-04-10 17:36:00,614 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 17:36:09,144 INFO  [Log] My Account link element found 
+2017-04-10 17:36:10,314 INFO  [Log] Username text box found 
+2017-04-10 17:36:10,475 INFO  [Log] Password text box found 
+2017-04-10 17:36:10,655 INFO  [Log] Submit button found 
+2017-04-10 17:36:15,784 INFO  [Log] Log Out link element found 
+2017-04-10 17:36:15,851 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-24 15:19:12,323 INFO  [Log] **************************************************************************************** 
+2017-04-24 15:19:12,326 INFO  [Log] **************************************************************************************** 
+2017-04-24 15:19:12,326 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-24 15:19:12,326 INFO  [Log] **************************************************************************************** 
+2017-04-24 15:19:12,326 INFO  [Log] **************************************************************************************** 
+2017-04-24 15:19:13,122 INFO  [Log]  Excel sheet opened 
+2017-04-24 15:19:20,872 INFO  [Log] New driver instantiated 
+2017-04-24 15:19:21,123 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
